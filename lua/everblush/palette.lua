@@ -12,7 +12,7 @@ local palette = {
     color10 = '#96d988',
     color11 = '#f4d67a',
     color12 = '#71baf2',
-    color13 = '#ff0000',
+    color13 = '#ce89df',
     color14 = '67cbe7',  -- Used for function calls
     color15 = '#bdc3c2',
     comment = '#ff0080',
@@ -20,7 +20,7 @@ local palette = {
     contrast = '#161d1f',
     background = '#141b1e',
     foreground = '#dadada',
-    cursorline = '#2c3333',
+    cursorline = '#ff0000',
     none = 'NONE',
 }
 
