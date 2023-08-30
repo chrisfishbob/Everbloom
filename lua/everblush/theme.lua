@@ -204,7 +204,7 @@ function M.get(config)
         ["@constant.builtin"] = { fg = p.color4 },
         ["@constant.macro"] = { fg = p.color3 },
         ["@constructor"] = { fg = p.color4 },
-        ["@exception"] = { fg = p.except },
+        ["@exception"] = { fg = p.comment },
         ["@field"] = { fg = p.color1 },
         ["@float"] = { fg = p.color8 },
         ["@function"] = { fg = p.color1 },
