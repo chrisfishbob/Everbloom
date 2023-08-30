@@ -1,7 +1,7 @@
 local palette = {
     color0 = '#ffffff',
-    color1 = '#ffffff',
-    color2 = '#ffffff',
+    color1 = '#e57474',
+    color2 = '#8ccf7e',
     color3 = '#e5c76b',
     color4 = '#67b0e8',
     color5 = '#c47fd5',
