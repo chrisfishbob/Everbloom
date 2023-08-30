@@ -14,14 +14,14 @@ local palette = {
     color12 = '#71baf2',
     color13 = '#ce89df',
     color14 = '#67cbe7',
-    color15 = '#bdc3c2',
+    color15 = '#ff0000',
     comment = '#ff0080',
     except = "#d446db",
     contrast = '#161d1f',
     background = '#141b1e',
     foreground = '#dadada',
     cursorline = '#2c3333',
-    none = '#ff0000',
+    none = 'NONE',
 }
 
 return palette
