@@ -21,7 +21,7 @@ local palette = {
     background = '#141b1e',
     foreground = '#dadada',
     cursorline = '#2c3333',
-    none = 'NONE',
+    none = '#ff0000',
 }
 
 return palette
