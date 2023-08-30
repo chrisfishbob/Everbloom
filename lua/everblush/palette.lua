@@ -17,10 +17,10 @@ local palette = {
     color15 = '#bdc3c2',
     comment = '#ff0080',
     except = "#d446db",
-    contrast = '#161d1f',
+    contrast = '#ff0000',
     background = '#141b1e',
     foreground = '#dadada',
-    cursorline = '#ff0000',
+    cursorline = '2c3333',
     none = 'NONE',
 }
 
