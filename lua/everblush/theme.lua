@@ -33,7 +33,7 @@ function M.get(config)
         EndOfBuffer = { fg = p.background },
         Error = { fg = p.color1, bg = background },
         ErrorMsg = { fg = p.color1, bg = background },
-        Exception = { fg = p.color6 },
+        Exception = { fg = p.except },
         Float = { fg = p.color5 },
         FloatBorder = { fg = p.color2 },
         FoldColumn = { fg = p.color4, bg = background },
