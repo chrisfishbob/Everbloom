@@ -1,5 +1,5 @@
 local palette = {
-    color0 = '#ffffff',
+    color0 = '#232a2d',
     color1 = '#e57474',
     color2 = '#8ccf7e',
     color3 = '#e5c76b',
